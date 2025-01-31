@@ -4,13 +4,13 @@
 
 # What to Do
 
-You have to solve [Day 10 of the Advent of Code 2024](https://adventofcode.com/2024/day/10) Part 2.
+You have to solve [Day 10 of the Advent of Code 2024](https://adventofcode.com/2024/day/10) Part 2. You have to solve Part 1 first to reveal the text of Part2. You will have to adapt your code from Part 1 to be able to solve Part 2. So, keep an open mind and think different.
 
 The problem is protected by Copyright, in consequence we cannot copy it here and you have to read the linked website and understand the problem. You **don't need** to connect to Advent of Code to read the problem. Tests are given through the `check` script as usual.
 
 You have to implement your solution in a file named `hicking2.py` which takes only one argument : the file name that contains the puzzle input.
 
-Your program should print the number of different hicking trails asked in **part 2** of the problem. Like in the examples given below.
+Your program should print the number of distinct hicking trails asked in **part 2** of the problem. Like in the examples given below.
 
 # When to Do it
 
@@ -29,21 +29,21 @@ $ python hicking2.py .test/02.in
 $ python hicking2.py .test/03.in
 3
 $ python hicking2.py .test/04.in
-4
-$ python hicking2.py .test/05.in
 6
-$ python hicking2.py .test/06.in
-3
-$ python hicking2.py .test/07.in
-7
-$ python hicking2.py .test/08.in
+$ python hicking2.py .test/05.in
 13
+$ python hicking2.py .test/06.in
+5
+$ python hicking2.py .test/07.in
+9
+$ python hicking2.py .test/08.in
+16
 $ python hicking2.py .test/09.in
-23
+35
 $ python hicking2.py .test/10.in
-64
+82
 $ python hicking2.py .test/11.in
-514
+1162
 $
 ```
 
