@@ -4,13 +4,13 @@
 
 # What to Do
 
-You have to solve [Day 10 of the Advent of Code 2024](https://adventofcode.com/2024/day/10) Part 2. You have to solve Part 1 first to reveal the text of Part2. You will have to adapt your code from Part 1 to be able to solve Part 2. So, keep an open mind and think different.
+You have to solve [Day 10 of the Advent of Code 2024 **Part 2**](https://adventofcode.com/2024/day/10). First, you need to solve Part 1 to reveal the text of Part2. Then, adapt your code from Part 1 to solve Part 2. So, keep an open mind and think different.
 
-The problem is protected by Copyright, in consequence we cannot copy it here and you have to read the linked website and understand the problem. You **don't need** to connect to Advent of Code to read the problem. Tests are given through the `check` script as usual.
+The problem is protected by Copyright, in consequence we cannot copy it here and you have to read the linked website and understand the problem. You **need** to connect to Advent of Code to solve Part 1.
 
-You have to implement your solution in a file named `hicking2.py` which takes only one argument : the file name that contains the puzzle input.
+You have to implement your solution in a file named `hicking2.py` which takes only one argument : the file name that contains the puzzle input. Tests are given through the `check` script as usual.
 
-Your program should print the number of distinct hicking trails asked in **part 2** of the problem. Like in the examples given below.
+Your program should print the number of distinct hicking trails asked in **Part 2** of the problem. Like in the examples given below.
 
 # When to Do it
 
