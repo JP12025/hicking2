@@ -41,7 +41,7 @@ fi
 ##################################################
 if [ "${GIVEN_SCRIPT}" != "${EXP_SCRIPT}" ]
 then
-    printf "Script name is not correct, it should be: ${GIVEN_SCRIPT}\n"
+    printf "Script name is not correct, it should be: ${EXP_SCRIPT}\n"
     exit
 fi
 
