@@ -18,7 +18,7 @@ By Sunday, february 8, 2025 at 11:59 PM
 
 # How to Test
 
-Test your script with command `./check hicking2.py` or `pytest test_hichking.py`
+Test your script with command `./check hicking2.py` or `pytest test_hichking2.py`
 
 Or run tests directly as follows:
 ```bash
