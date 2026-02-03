@@ -33,7 +33,7 @@ DATA_OUT = [
 )
 def test_hicking_single(input_data, expected_output):
     """Test hicking.py"""
-    param = ["python"] + base_param + [input_data]
+    param = base_param + [input_data]
     result = subprocess.run(
         param,
         input=input_data[1],
